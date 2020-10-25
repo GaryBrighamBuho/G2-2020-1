@@ -5,3 +5,7 @@
 07/10/20 Creacion del metodo func2 que multiplica matrices
 07/10/20 Creacion del metodo func4 que transpuesta de matrices
 20/10/20 modificacion del los nombres de los modulos 
+21/10/20 Subir presentacion del informe
+21/10/20 Creacion de un colab para mejorar el informe
+21/10/20 Subir la presentacion del PPT
+25/10/20 Modificacion del README.md
